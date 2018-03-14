@@ -1,5 +1,7 @@
 # 💡 next-plugins [![npm version](https://img.shields.io/npm/v/next-plugins.svg)](https://www.npmjs.com/package/next-plugins) [![license](https://img.shields.io/github/license/cyrilwanner/next-plugins.svg)](https://github.com/cyrilwanner/next-plugins/blob/master/LICENSE)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cyrilwanner/next-plugins.svg)](https://greenkeeper.io/)
+
 Provides a cleaner API for enabling and configuring plugins for [next.js](https://github.com/zeit/next.js) because the default way next.js suggests to enable and configure plugins can get unclear and confusing when you have many plugins.
 
 It is often unclear which plugins are enabled or which configuration belongs to which plugin because they are nested and share one configuration object.
